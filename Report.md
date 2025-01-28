@@ -152,5 +152,5 @@ By implementing the recommended strategies, businesses can **improve customer re
 
 ## 📧 **Contact Information**
 📌 **Analyst:** Colby Reichenbach  
-📩 **Email:** [colbyrreichenbach@gmail.com](colbyrreichenbach@gmail.com)
+📩 **Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)   
 🔗 **LinkedIn:** [colby-reichenbach](https://www.linkedin.com/in/colby-reichenbach/)
