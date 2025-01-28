@@ -39,7 +39,7 @@ This analysis aims to:
 ### **3.1 Churn Distribution**  
 Understanding the **overall churn rate** helps establish the scale of the issue.  
 
-![Churn Distribution](https://raw.githubusercontent.com/YOUR_GITHUB_REPO/images/churn_distribution.png)  
+![Churn Distribution](churn_distribution.png)  
 
 🔹 The dataset reveals a **churn rate of approximately 26.5%**.  
 🔹 A quarter of the customer base is leaving, highlighting a need for **targeted retention efforts**.  
