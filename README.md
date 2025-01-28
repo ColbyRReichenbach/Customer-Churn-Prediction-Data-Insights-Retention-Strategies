@@ -23,23 +23,23 @@ The dataset was used to analyze customer churn patterns and train machine learni
 ---
 
 ## 📁 Repository Structure  
-📦 Customer-Churn-Analysis
- ┣ 📂 notebooks
- ┃ ┣ 📜 Data_Cleaning_and_Preprocessing.ipynb
- ┃ ┣ 📜 Exploratory_Data_Analysis.ipynb
- ┃ ┣ 📜 Predictive_Modeling.ipynb
- ┃ ┣ 📜 Model_Evaluation.ipynb
- ┣ 📂 images
- ┃ ┣ 📜 churn_distribution.png
- ┃ ┣ 📜 contract_payment_method_vs_churn.png
- ┃ ┣ 📜 customer_demographics_vs_churn.png
- ┃ ┣ 📜 Feature_Importance.png
- ┃ ┣ 📜 ROC_Curve.png
- ┃ ┣ 📜 service_usage_vs_churn.png
- ┃ ┣ 📜 tenure_monthly_charges_vs_churn.png
- ┣ 📜 README.md
- ┣ 📜 Report.md
- ┣ 📜 requirements.txt
+📦 Customer-Churn-Analysis  
+ ┣ 📂 notebooks  
+ ┃ ┣ 📜 Data_Cleaning_and_Preprocessing.ipynb  
+ ┃ ┣ 📜 Exploratory_Data_Analysis.ipynb  
+ ┃ ┣ 📜 Predictive_Modeling.ipynb  
+ ┃ ┣ 📜 Model_Evaluation.ipynb  
+ ┣ 📂 images  
+ ┃ ┣ 📜 churn_distribution.png  
+ ┃ ┣ 📜 contract_payment_method_vs_churn.png  
+ ┃ ┣ 📜 customer_demographics_vs_churn.png  
+ ┃ ┣ 📜 Feature_Importance.png  
+ ┃ ┣ 📜 ROC_Curve.png  
+ ┃ ┣ 📜 service_usage_vs_churn.png  
+ ┃ ┣ 📜 tenure_monthly_charges_vs_churn.png  
+ ┣ 📜 README.md  
+ ┣ 📜 Report.md  
+ ┣ 📜 requirements.txt  
 
 ---
 
