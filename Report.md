@@ -147,3 +147,10 @@ By implementing the recommended strategies, businesses can **improve customer re
 - Optimize **customer support and pricing models**.  
 
 **Proactively managing churn will lead to higher customer satisfaction and increased profitability!**  
+
+---
+
+## 📧 **Contact Information**
+📌 **Analyst:** Colby Reichenbach  
+📩 **Email:** [colbyrreichenbach@gmail.com](colbyrreichenbach@gmail.com)
+🔗 **LinkedIn:** [colby-reichenbach](https://www.linkedin.com/in/colby-reichenbach/)
