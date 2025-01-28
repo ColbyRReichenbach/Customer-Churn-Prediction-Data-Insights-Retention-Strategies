@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Report  
+# Customer Churn Analysis Report  
 **Prepared by:** [Colby Reichenbach]  
 **Date:** [Jan. 27, 2025]  
 
@@ -27,10 +27,10 @@ Customer churn is the percentage of customers who discontinue using a service wi
 High churn can lead to **revenue loss** and **customer acquisition cost increases**.  
 
 This analysis aims to:  
-🔹 Understand **why customers churn**  
-🔹 Identify **key risk factors**  
-🔹 Develop **predictive models** to prevent churn  
-🔹 Recommend **data-driven strategies** for retention  
+- Understand **why customers churn**  
+- Identify **key risk factors**  
+- Develop **predictive models** to prevent churn  
+- Recommend **data-driven strategies** for retention  
 
 ---
 
@@ -41,8 +41,8 @@ Understanding the **overall churn rate** helps establish the scale of the issue.
 
 ![Churn Distribution](./Visuals/churn_distribution.png) 
 
-🔹 The dataset reveals a **churn rate of approximately 26.5%**.  
-🔹 A quarter of the customer base is leaving, highlighting a need for **targeted retention efforts**.  
+- The dataset reveals a **churn rate of approximately 26.5%**.  
+- A quarter of the customer base is leaving, highlighting a need for **targeted retention efforts**.  
 
 ---
 
@@ -146,4 +146,4 @@ By implementing the recommended strategies, businesses can **improve customer re
 - Conduct **A/B testing of retention strategies**.  
 - Optimize **customer support and pricing models**.  
 
-🚀 **Proactively managing churn will lead to higher customer satisfaction and increased profitability!**  
+**Proactively managing churn will lead to higher customer satisfaction and increased profitability!**  
