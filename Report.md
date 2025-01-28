@@ -39,7 +39,7 @@ This analysis aims to:
 ### **3.1 Churn Distribution**  
 Understanding the **overall churn rate** helps establish the scale of the issue.  
 
-![Churn Distribution](./visuals/churn_distribution.png) 
+![Churn Distribution](./Visuals/churn_distribution.png) 
 
 🔹 The dataset reveals a **churn rate of approximately 26.5%**.  
 🔹 A quarter of the customer base is leaving, highlighting a need for **targeted retention efforts**.  
@@ -49,7 +49,7 @@ Understanding the **overall churn rate** helps establish the scale of the issue.
 ### **3.2 Contract Type & Payment Method Impact on Churn**  
 One of the strongest predictors of churn is **contract type**.  
 
-![Contract & Payment vs Churn](./visuals/contract_payment_method_vs_churn.png)  
+![Contract & Payment vs Churn](./Visuals/contract_payment_method_vs_churn.png)  
 
 ✔ Customers on **month-to-month contracts churn the most**, indicating a lack of commitment to long-term service.  
 ✔ **One-year and two-year contract customers churn significantly less**, suggesting that **contract incentives** may help.  
@@ -60,7 +60,7 @@ One of the strongest predictors of churn is **contract type**.
 ### **3.3 Customer Demographics & Churn**  
 Demographic factors, such as **age, gender, and dependents**, play a role in churn behavior.  
 
-![Customer Demographics vs Churn](./visuals/customer_demographics_vs_churn.png)  
+![Customer Demographics vs Churn](./Visuals/customer_demographics_vs_churn.png)  
 
 ✔ **Senior Citizens** exhibit **higher churn rates**, possibly due to technology barriers or cost concerns.  
 ✔ Customers without **dependents** or **partners** are more likely to churn, indicating a lower barrier to exit.  
@@ -70,7 +70,7 @@ Demographic factors, such as **age, gender, and dependents**, play a role in chu
 ### **3.4 Service Usage & Churn**  
 Different service types impact customer retention.  
 
-![Service Usage vs Churn](./visuals/service_usage_vs_churn.png)  
+![Service Usage vs Churn](./Visuals/service_usage_vs_churn.png)  
 
 ✔ Customers with **Fiber Optic Internet churn at higher rates**, possibly due to service quality or pricing.  
 ✔ Customers **without Tech Support or Online Security services churn more**, suggesting that value-added services improve retention.  
@@ -80,7 +80,7 @@ Different service types impact customer retention.
 ### **3.5 Tenure & Monthly Charges Impact on Churn**  
 Customer **tenure (time with the company) and billing amounts** significantly affect churn likelihood.  
 
-![Tenure & Monthly Charges vs Churn](./visuals/tenure_monthly_charges_vs_churn.png)  
+![Tenure & Monthly Charges vs Churn](./Visuals/tenure_monthly_charges_vs_churn.png)  
 
 ✔ **Short-tenured customers (0-12 months) churn at the highest rates**, emphasizing the importance of **early engagement strategies**.  
 ✔ **Higher monthly charges correlate with higher churn**, indicating that pricing sensitivity plays a role in customer retention.  
@@ -100,7 +100,7 @@ To predict customer churn, we trained **three machine learning models**:
 ### **4.1 Feature Importance Analysis**  
 Which factors contribute most to churn?  
 
-![Feature Importance](./visuals/Feature_Importance.png)  
+![Feature Importance](./Visuals/Feature_Importance.png)  
 
 ✔ **Total Charges, Monthly Charges, and Tenure** are the **most significant predictors** of churn.  
 ✔ **Contract type and payment method** also strongly impact churn rates.  
@@ -110,7 +110,7 @@ Which factors contribute most to churn?
 ### **4.2 Model Performance Evaluation (ROC Curve)**  
 How well do our models differentiate churners from non-churners?  
 
-![ROC Curve](./visuals/ROC_Curve.png)  
+![ROC Curve](./Visuals/ROC_Curve.png)  
 
 ✔ **All models perform well, with the Logistic Regression model achieving 84% accuracy**.  
 ✔ The **ROC curve indicates strong model performance**, meaning we can use these models for real-world churn prediction.  
