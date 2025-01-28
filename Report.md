@@ -1,5 +1,5 @@
 # Customer Churn Analysis Report  
-**Prepared by:** Colby Reichenbach
+**Prepared by:** Colby Reichenbach  
 **Date:** Jan. 27, 2025  
 
 ---
