@@ -11,17 +11,6 @@ to flag at-risk customers.
 
 ---
 
-## Dataset Information
-This project uses the Telco Customer Churn Dataset, which contains customer data from a telecommunications company.
-
-Source: [IBM Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-Features: Customer demographics, contract details, payment methods, tenure, and churn status.
-License: Publicly available for educational and research purposes.
-
-The dataset was used to analyze customer churn patterns and train machine learning models for churn prediction.
-
----
-
 ## 📁 Repository Structure  
 📦 Customer-Churn-Analysis  
  ┣ 📂 notebooks  
@@ -40,6 +29,17 @@ The dataset was used to analyze customer churn patterns and train machine learni
  ┣ 📜 README.md  
  ┣ 📜 Report.md  
  ┣ 📜 requirements.txt  
+
+---
+
+## Dataset Information
+This project uses the Telco Customer Churn Dataset, which contains customer data from a telecommunications company.
+
+Source: [IBM Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+Features: Customer demographics, contract details, payment methods, tenure, and churn status.
+License: Publicly available for educational and research purposes.
+
+The dataset was used to analyze customer churn patterns and train machine learning models for churn prediction.
 
 ---
 
