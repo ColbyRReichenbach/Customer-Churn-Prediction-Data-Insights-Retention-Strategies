@@ -5,30 +5,30 @@ This project analyzes **customer churn behavior** using **Exploratory Data Analy
 By identifying **key drivers of churn**, we can develop **data-driven retention strategies** and deploy a **predictive model**  
 to flag at-risk customers.  
 
-🔹 **Objective:** Understand why customers churn and how to reduce it.  
-🔹 **Approach:** Use **data analysis & machine learning models** to predict churn.  
-🔹 **Outcome:** Develop **actionable insights & an AI-based flagging system** for at-risk customers.  
+**Objective:** Understand why customers churn and how to reduce it.  
+**Approach:** Use **data analysis & machine learning models** to predict churn.  
+**Outcome:** Develop **actionable insights & an AI-based flagging system** for at-risk customers.  
 
 ---
 
 ## 📁 Repository Structure  
-📦 Customer-Churn-Analysis  
- ┣ 📂 notebooks  
- ┃ ┣ 📜 Data_Cleaning_and_Preprocessing.ipynb  
- ┃ ┣ 📜 Exploratory_Data_Analysis.ipynb  
- ┃ ┣ 📜 Predictive_Modeling.ipynb  
- ┃ ┣ 📜 Model_Evaluation.ipynb  
- ┣ 📂 images  
- ┃ ┣ 📜 churn_distribution.png  
- ┃ ┣ 📜 contract_payment_method_vs_churn.png  
- ┃ ┣ 📜 customer_demographics_vs_churn.png  
- ┃ ┣ 📜 Feature_Importance.png  
- ┃ ┣ 📜 ROC_Curve.png  
- ┃ ┣ 📜 service_usage_vs_churn.png  
- ┃ ┣ 📜 tenure_monthly_charges_vs_churn.png  
- ┣ 📜 README.md  
- ┣ 📜 Report.md  
- ┣ 📜 requirements.txt  
+
+
+```bash
+├── Data/
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv        # Raw dataset
+│   └── cleaned_data.csv                            # cleaned dataset
+│   └── Model_Data.csv                              # Dataset used for modeling
+├── notebooks/
+│   └── Data_Cleaning_and_Preprocessing.ipynb       # Full workflow of data cleaning and processing
+│   └── Exploratory_Data_Analysis.ipynb             # Full analysis of data, including visuals
+│   └── Model_Evaluation.ipynb                      # Full analysis on model outputs
+│   └── Predictive_Modeling.ipynb                   # Code for model building
+├── Visuals/                                        # Figures derived from notebooks - for use in reports
+├── README.md                                       # Project documentation
+├── Report.md                                       # Detailed report with analysis
+└── requirements.txt                                # Required packages to run notebook
+```
 
 ---
 
