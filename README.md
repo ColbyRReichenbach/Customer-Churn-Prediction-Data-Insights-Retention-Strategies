@@ -2,7 +2,7 @@
 
 ## Project Overview  
 This project analyzes **customer churn behavior** using **Exploratory Data Analysis (EDA)** and **Machine Learning**.  
-By identifying **key drivers of churn**, we can develop **data-driven retention strategies** and deploy a **predictive model**  
+By identifying **key drivers of churn**, we can develop **data-driven retention strategies** and deploy a **predictive model**
 to flag at-risk customers.  
 
 **Objective:** Understand why customers churn and how to reduce it.  
