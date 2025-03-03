@@ -44,5 +44,5 @@ The dataset was used to analyze customer churn patterns and train machine learni
 ---
 
 **Author: Colby Reichenbach**  
-📩 **Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
-🔗 **[[LinkedIn](https://www.linkedin.com/in/colby-reichenbach/)]**  
+**Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
+**[LinkedIn](https://www.linkedin.com/in/colby-reichenbach/)**  
